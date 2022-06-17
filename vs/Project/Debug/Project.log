@@ -1,0 +1,4 @@
+﻿  Demo.cpp
+D:\KULIAH\SEMESTER 6\PemGIm\Doa Ibu_Amog Us_OOP\vs\Project\Demo.cpp(43,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\KULIAH\SEMESTER 6\PemGIm\Doa Ibu_Amog Us_OOP\vs\Project\Demo.cpp(110,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project.vcxproj -> D:\KULIAH\SEMESTER 6\PemGIm\Doa Ibu_Amog Us_OOP\vs\Debug\Project.exe
